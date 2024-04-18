@@ -1,0 +1,217 @@
+,make,model,variable,value
+0,Audi,A3,body_type,hatchback
+1,Audi,A3,doors,5.0
+2,Audi,A3,top_speed,220
+3,Audi,A3,acceleration,7.2
+4,Audi,A3,fuel_consumption,6.0
+5,Audi,A3,engine,1.5 TFSI
+6,Audi,A3,description,Audi A3 1.5 TFSI
+7,Audi,A3,displacement,1498.0
+8,Audi,A3,horsepower,150.0
+9,Audi,A3,fuel_type,gasoline
+10,Audi,A3,cylinders,4.0
+11,Audi,A3,emissions_class,Euro 6d
+12,Audi,Q5,body_type,SUV
+13,Audi,Q5,doors,5.0
+14,Audi,Q5,top_speed,237
+15,Audi,Q5,acceleration,6.3
+16,Audi,Q5,fuel_consumption,
+17,Audi,Q5,engine,45 TFSI quattro
+18,Audi,Q5,description,Audi Q5 45 TFSI quattro
+19,Audi,Q5,displacement,1984.0
+20,Audi,Q5,horsepower,245.0
+21,Audi,Q5,fuel_type,gasoline
+22,Audi,Q5,cylinders,4.0
+23,Audi,Q5,emissions_class,Euro 6
+24,BMW,3 Series,body_type,sedan
+25,BMW,3 Series,doors,4.0
+26,BMW,3 Series,top_speed,240
+27,BMW,3 Series,acceleration,6.2
+28,BMW,3 Series,fuel_consumption,
+29,BMW,3 Series,engine,2.0L TwinPower Turbo
+30,BMW,3 Series,description,BMW 3 Series 2.0L TwinPower Turbo
+31,BMW,3 Series,displacement,1998.0
+32,BMW,3 Series,horsepower,184.0
+33,BMW,3 Series,fuel_type,gasoline
+34,BMW,3 Series,cylinders,4.0
+35,BMW,3 Series,emissions_class,Euro 6d
+36,Fiat,500,body_type,hatchback
+37,Fiat,500,doors,3.0
+38,Fiat,500,top_speed,160
+39,Fiat,500,acceleration,12.9
+40,Fiat,500,fuel_consumption,
+41,Fiat,500,engine,0.9 TwinAir
+42,Fiat,500,description,Fiat 500 0.9 TwinAir
+43,Fiat,500,displacement,875.0
+44,Fiat,500,horsepower,85.0
+45,Fiat,500,fuel_type,gasoline
+46,Fiat,500,cylinders,2.0
+47,Fiat,500,emissions_class,Euro 6d-TEMP
+48,Fiat,Panda,body_type,hatchback
+49,Fiat,Panda,doors,5.0
+50,Fiat,Panda,top_speed,165
+51,Fiat,Panda,acceleration,14.5
+52,Fiat,Panda,fuel_consumption,5.0
+53,Fiat,Panda,engine,1.2 8v
+54,Fiat,Panda,description,Fiat Panda 1.2 8v
+55,Fiat,Panda,displacement,
+56,Fiat,Panda,horsepower,
+57,Fiat,Panda,fuel_type,
+58,Fiat,Panda,cylinders,
+59,Fiat,Panda,emissions_class,
+60,Fiat,Punto,body_type,hatchback
+61,Fiat,Punto,doors,3.0
+62,Fiat,Punto,top_speed,170
+63,Fiat,Punto,acceleration,12.5
+64,Fiat,Punto,fuel_consumption,5.2
+65,Fiat,Punto,engine,1.2 8v
+66,Fiat,Punto,description,Fiat Punto 1.2 8v
+67,Fiat,Punto,displacement,
+68,Fiat,Punto,horsepower,
+69,Fiat,Punto,fuel_type,
+70,Fiat,Punto,cylinders,
+71,Fiat,Punto,emissions_class,
+72,Ford,Mustang,body_type,coupe
+73,Ford,Mustang,doors,2.0
+74,Ford,Mustang,top_speed,249
+75,Ford,Mustang,acceleration,5.8
+76,Ford,Mustang,fuel_consumption,10.2
+77,Ford,Mustang,engine,2.3L EcoBoost
+78,Ford,Mustang,description,Ford Mustang 2.3L EcoBoost
+79,Ford,Mustang,displacement,2261.0
+80,Ford,Mustang,horsepower,350.0
+81,Ford,Mustang,fuel_type,gasoline
+82,Ford,Mustang,cylinders,4.0
+83,Ford,Mustang,emissions_class,Euro 6d-TEMP
+84,Opel,Corsa,body_type,hatchback
+85,Opel,Corsa,doors,5.0
+86,Opel,Corsa,top_speed,180
+87,Opel,Corsa,acceleration,9.9
+88,Opel,Corsa,fuel_consumption,5.5
+89,Opel,Corsa,engine,1.2 Turbo
+90,Opel,Corsa,description,Opel Corsa 1.2 Turbo
+91,Opel,Corsa,displacement,1197.0
+92,Opel,Corsa,horsepower,110.0
+93,Opel,Corsa,fuel_type,gasoline
+94,Opel,Corsa,cylinders,4.0
+95,Opel,Corsa,emissions_class,Euro 6d-TEMP
+96,Peugeot,208,body_type,hatchback
+97,Peugeot,208,doors,
+98,Peugeot,208,top_speed,190
+99,Peugeot,208,acceleration,9.9
+100,Peugeot,208,fuel_consumption,5.0
+101,Peugeot,208,engine,1.2 PureTech
+102,Peugeot,208,description,Peugeot 208 1.2 PureTech
+103,Peugeot,208,displacement,1199.0
+104,Peugeot,208,horsepower,130.0
+105,Peugeot,208,fuel_type,gasoline
+106,Peugeot,208,cylinders,3.0
+107,Peugeot,208,emissions_class,Euro 6d
+108,Peugeot,3008,body_type,SUV
+109,Peugeot,3008,doors,5.0
+110,Peugeot,3008,top_speed,210
+111,Peugeot,3008,acceleration,9.2
+112,Peugeot,3008,fuel_consumption,5.6
+113,Peugeot,3008,engine,1.6 THP
+114,Peugeot,3008,description,Peugeot 3008 1.6 THP
+115,Peugeot,3008,displacement,1598.0
+116,Peugeot,3008,horsepower,165.0
+117,Peugeot,3008,fuel_type,gasoline
+118,Peugeot,3008,cylinders,4.0
+119,Peugeot,3008,emissions_class,Euro 5
+120,Porsche,911,body_type,coupe
+121,Porsche,911,doors,
+122,Porsche,911,top_speed,330
+123,Porsche,911,acceleration,3.5
+124,Porsche,911,fuel_consumption,11.8
+125,Porsche,911,engine,3.0L Twin Turbo V6
+126,Porsche,911,description,Porsche 911 3.0L Twin Turbo V6
+127,Porsche,911,displacement,3000.0
+128,Porsche,911,horsepower,450.0
+129,Porsche,911,fuel_type,gasoline
+130,Porsche,911,cylinders,6.0
+131,Porsche,911,emissions_class,Euro 6
+132,Renault,Clio,body_type,hatchback
+133,Renault,Clio,doors,5.0
+134,Renault,Clio,top_speed,190
+135,Renault,Clio,acceleration,11.0
+136,Renault,Clio,fuel_consumption,6.5
+137,Renault,Clio,engine,1.5 dCi
+138,Renault,Clio,description,Renault Clio 1.5 dCi
+139,Renault,Clio,displacement,1461.0
+140,Renault,Clio,horsepower,115.0
+141,Renault,Clio,fuel_type,diesel
+142,Renault,Clio,cylinders,4.0
+143,Renault,Clio,emissions_class,Euro 6d-TEMP
+144,Renault,Megane,body_type,hatchback
+145,Renault,Megane,doors,5.0
+146,Renault,Megane,top_speed,215
+147,Renault,Megane,acceleration,7.9
+148,Renault,Megane,fuel_consumption,5.4
+149,Renault,Megane,engine,1.5 dCi
+150,Renault,Megane,description,Renault Megane 1.5 dCi
+151,Renault,Megane,displacement,1461.0
+152,Renault,Megane,horsepower,115.0
+153,Renault,Megane,fuel_type,diesel
+154,Renault,Megane,cylinders,4.0
+155,Renault,Megane,emissions_class,Euro 6d-TEMP
+156,Seat,Leon,body_type,hatchback
+157,Seat,Leon,doors,5.0
+158,Seat,Leon,top_speed,240
+159,Seat,Leon,acceleration,8.0
+160,Seat,Leon,fuel_consumption,
+161,Seat,Leon,engine,1.5 TSI
+162,Seat,Leon,description,Seat Leon 1.5 TSI
+163,Seat,Leon,displacement,1498.0
+164,Seat,Leon,horsepower,150.0
+165,Seat,Leon,fuel_type,gasoline
+166,Seat,Leon,cylinders,4.0
+167,Seat,Leon,emissions_class,Euro 6d
+168,Volkswagen,Golf,body_type,hatchback
+169,Volkswagen,Golf,doors,5.0
+170,Volkswagen,Golf,top_speed,210
+171,Volkswagen,Golf,acceleration,8.0
+172,Volkswagen,Golf,fuel_consumption,5.0
+173,Volkswagen,Golf,engine,1.5 TSI
+174,Volkswagen,Golf,description,Volkswagen Golf 1.5 TSI
+175,Volkswagen,Golf,displacement,1498.0
+176,Volkswagen,Golf,horsepower,150.0
+177,Volkswagen,Golf,fuel_type,gasoline
+178,Volkswagen,Golf,cylinders,4.0
+179,Volkswagen,Golf,emissions_class,Euro 6d
+180,Volkswagen,Passat,body_type,sedan
+181,Volkswagen,Passat,doors,4.0
+182,Volkswagen,Passat,top_speed,230
+183,Volkswagen,Passat,acceleration,7.5
+184,Volkswagen,Passat,fuel_consumption,6.0
+185,Volkswagen,Passat,engine,2.0 TDI
+186,Volkswagen,Passat,description,Volkswagen Passat 2.0 TDI
+187,Volkswagen,Passat,displacement,1968.0
+188,Volkswagen,Passat,horsepower,150.0
+189,Volkswagen,Passat,fuel_type,diesel
+190,Volkswagen,Passat,cylinders,4.0
+191,Volkswagen,Passat,emissions_class,Euro 6d-TEMP
+192,Volvo,S60,body_type,sedan
+193,Volvo,S60,doors,4.0
+194,Volvo,S60,top_speed,250
+195,Volvo,S60,acceleration,6.2
+196,Volvo,S60,fuel_consumption,6.6
+197,Volvo,S60,engine,T8 Polestar Engineered
+198,Volvo,S60,description,Volvo S60 T8 Polestar Engineered
+199,Volvo,S60,displacement,1969.0
+200,Volvo,S60,horsepower,415.0
+201,Volvo,S60,fuel_type,hybrid
+202,Volvo,S60,cylinders,4.0
+203,Volvo,S60,emissions_class,Euro 6
+204,Volvo,XC60,body_type,SUV
+205,Volvo,XC60,doors,5.0
+206,Volvo,XC60,top_speed,220
+207,Volvo,XC60,acceleration,8.0
+208,Volvo,XC60,fuel_consumption,6.0
+209,Volvo,XC60,engine,B4
+210,Volvo,XC60,description,Volvo XC60 B4
+211,Volvo,XC60,displacement,
+212,Volvo,XC60,horsepower,
+213,Volvo,XC60,fuel_type,
+214,Volvo,XC60,cylinders,
+215,Volvo,XC60,emissions_class,
