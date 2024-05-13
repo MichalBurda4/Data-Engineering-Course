@@ -1,0 +1,18 @@
+name,point_count
+Aleja Jana Pawła II,1
+Aleja generała Władysława Andersa,4
+Brzeska,4
+Igołomska,7
+Jasnogórska,2
+Josepha Conrada,2
+Plac Centralny imienia Ronalda Reagana,4
+Rondo Generała Stanisława Maczka,4
+Rondo Kocmyrzowskie imienia księdza Józefa Gorzelanego,4
+Rondo Ofiar Katynia,4
+Tadeusza Ptaszyckiego,1
+Walerego Eliasza Radzikowskiego,2
+"['Aleja Jana Pawła II', 'Plac Centralny imienia Ronalda Reagana']",1
+"['Estakada Generała Tadeusza Rozwadowskiego', 'Estakada Generała pilota Mateusza Iżyckiego', 'Generała Tadeusza Bora-Komorowskiego', 'Lublańska', 'Aleja generała Władysława Andersa', 'Josepha Conrada', 'Opolska']",2
+"['Tadeusza Ptaszyckiego', 'Aleja Jana Pawła II']",2
+"['Walerego Eliasza Radzikowskiego', 'Josepha Conrada']",2
+nan,6
