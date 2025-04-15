@@ -1,4 +1,4 @@
- 🛠️ Data Engineering Course – AGH
+# 🛠️ Data Engineering Course – AGH
 
 This repository contains assignments and code examples from the **Data Engineering** course at **AGH University of Science and Technology**.
 
