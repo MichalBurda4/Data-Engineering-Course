@@ -1,11 +1,22 @@
-# Data-Engineering-Course
+ 🛠️ Data Engineering Course – AGH
 
-Providing students with knowledge of the main stages and approaches to data analysis.
+This repository contains assignments and code examples from the **Data Engineering** course at **AGH University of Science and Technology**.
 
-Teaching students about available tools and methods for data integration and normalisation.
+## 📚 Topics Covered
 
-Giving students means to create added value by merging and analysing real-life datasets.
+- Relational databases and SQL
+- Data modeling and normalization
+- Data extraction, transformation, and loading (ETL)
+- Working with CSV and JSON files
+- Apache Spark basics
+- Pandas for data manipulation
+- Introduction to data pipelines
 
-Teaching students about data quality and ways of evaluating it.
+## 🛠️ Technologies
 
-
+- **Python**
+- **PostgreSQL / SQLite**
+- **Pandas**
+- **SQLAlchemy**
+- **Apache Spark (PySpark)**
+- **Jupyter Notebook**
